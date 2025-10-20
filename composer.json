@@ -1,0 +1,21 @@
+{
+    "name": "pal/pal",
+    "description": "PHP Animation Library (PAL) for DOM elements with CSS3 animations, 3D effects, and fluent API",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sushil Kumar"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "PAL\\": "src/Pal/"
+        }
+    },
+    "require": {
+        "php": ">=8.1"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
