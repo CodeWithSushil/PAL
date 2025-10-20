@@ -1,6 +1,6 @@
 {
     "name": "pal/pal",
-    "description": "PHP Animation Library (PAL) for DOM elements with CSS3 animations, 3D effects, and fluent API",
+    "description": "PAL: PHP Animation Library.",
     "type": "library",
     "license": "MIT",
     "authors": [
